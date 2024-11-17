@@ -32,6 +32,7 @@ while True:
 ```
 ## OUPUT
 ![3a-client-op](https://github.com/user-attachments/assets/0f87c01c-4357-4690-9cba-fbf0b54787f3)
+![3a-server-op](https://github.com/user-attachments/assets/1003306e-f8ba-46f4-aeba-31ea6f19d153)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
